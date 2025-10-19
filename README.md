@@ -67,4 +67,47 @@ https://github.com/vanchaiy/gate-control-card
 We will inform you soon.
 
 
-<br><br>🙌 🙌 Credits Created by wanchaiy Crafted for smart home enthusiasts who value realism, responsiveness, and clean design.
+<br><br>🙌 Credits Created by wanchaiy Crafted for smart home enthusiasts who value realism, responsiveness, and clean design.
+
+## 🔎 แฮชแท็ก
+- #SmartHomeThailand
+- #TuyaSmartModule
+- #ESP8266Automation
+- #HomeAssistantTH
+- #SmartGateController
+- #เปิดปิดประตูอัตโนมัติ
+- #ประตูบ้านอัจฉริยะ
+- #ควบคุมผ่านมือถือ
+- #แจ้งเตือนเข้าออกบ้าน
+- #ระบบรักษาความปลอดภัยบ้าน
+- #อุปกรณ์สมาร์ทโฮม
+- #ขายอุปกรณ์สมาร์ทโฮม
+- #สมาร์ทโฮมราคาถูก
+- #SmartGateModule
+- #TuyaGateSwitch
+- #DIYSmartHome
+- #SmartHomeMadeEasy
+- #ThaiMaker
+- #IoTThailand
+- #บ้านอัจฉริยะ
+- #TuyaSmart
+- #TuyaCompatible
+- #TuyaGateModule
+- #TuyaSwitch
+- #TuyaAutomation
+- #TuyaSmartHome
+- #TuyaDevice
+- #TuyaAppControl
+- #Tuyaไทย
+- #Tuyaพร้อมใช้งาน
+- #รองรับTuya
+- #ควบคุมผ่านTuya
+- #อุปกรณ์Tuya
+- #Tuyaพร้อมติดตั้ง
+- #Tuyaใช้งานง่าย
+- #TuyaSmartGate
+- #ประตูรีโมต
+- #bsm BSM RSE 
+- #WiFI Gate
+- #V129C T329 K329
+- #CBU

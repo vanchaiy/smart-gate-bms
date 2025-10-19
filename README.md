@@ -1,4 +1,4 @@
- <img src="./Screenshot_TUYA/TUYA_Smart_Gate_Module.png" alt="tuya"  />
+ <img src="./Screenshot_TUYA/TUYA_Smart_Gate_Module_1.png" alt="tuya"  />
 
 # 🚪 TUYA Smart Gate Module
 Smart door control system with beautiful status graphics showing door status and control buttons for opening, closing and stopping via TUYA app and has a support card for Home Assistant

@@ -1,4 +1,4 @@
-# 🚪 Smart Gate BMS
+# 🚪 Smart Gate Module
 Smart door control system with beautiful status graphics showing door status and control buttons for opening, closing and stopping via TUYA app and has a support card for Home Assistant
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">

@@ -1,10 +1,28 @@
-# 🚪 Smart Gate Module
+ <img src="https://static.cytron.io/image/tutorial/hass-2024-5-why-hassio-on-pi-5/1-vrcp-vjojgay1skibqgk1g.png" alt="tuya" height="150" />
+
+# 🚪 TUYA Smart Gate Module
 Smart door control system with beautiful status graphics showing door status and control buttons for opening, closing and stopping via TUYA app and has a support card for Home Assistant
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://static.cytron.io/image/tutorial/hass-2024-5-why-hassio-on-pi-5/1-vrcp-vjojgay1skibqgk1g.png" alt="tuya" height="50" />
-  <img src="https://www.home-assistant.io/images/home-assistant-logo-white.svg" alt="home-assistant-logo-white" height="50"/>
-</div>
+
+
+## ✨ Features
+
+🎮 Interactive control with independent buttons for Open, Stop, and Close <br>
+🧼 Simple design — no logos or brands, clean and user-friendly <br>
+⚙️ Easy to install, with a detailed installation guide <br>
+
+
+## 💎 More powerful features than other brands
+🖼️ Realistic door status visualization <br>
+🎚️ 4 sensors detect real-time status <br>
+    &nbsp;&nbsp;🔸 Close - Door is completely closed <br>
+    &nbsp;&nbsp;🔸 Open - Door is fully open <br>
+    &nbsp;&nbsp;🔸 Opening - Door is moving open <br>
+    &nbsp;&nbsp;🔸 Closing - Door is moving close <br>
+    &nbsp;&nbsp;🔸 Stop - You can stop the door while it's moving open or closed <br>
+🔔 Door open and close notification function <br>
+📊 Status history <br><br>
+
 
 ## 📸 Sample screenshot from TUYA app
 
@@ -19,6 +37,10 @@ Located in the `Screenshot_TUYA` folder:
 
 
 ## Home Assistant Card
+<img src="https://www.home-assistant.io/images/home-assistant-logo-white.svg" alt="home-assistant-logo-white" height="50"/>
+A custom Lovelace card for Home Assistant that provides a visually immersive and intuitive interface for controlling smart gates. Designed with realism, responsiveness, and customization in mind—no branding, just pure user experience. <br>
+
 https://github.com/vanchaiy/gate-control-card
 
-# 🐵 Coming soon...
+# 🛒 Order now
+We will inform you soon.

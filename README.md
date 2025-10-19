@@ -1,4 +1,4 @@
- <img src="https://static.cytron.io/image/tutorial/hass-2024-5-why-hassio-on-pi-5/1-vrcp-vjojgay1skibqgk1g.png" alt="tuya" height="150" />
+ <img src="./Screenshot_TUYA/TUYA_Smart_Gate_Module.png" alt="tuya"  />
 
 # 🚪 TUYA Smart Gate Module
 Smart door control system with beautiful status graphics showing door status and control buttons for opening, closing and stopping via TUYA app and has a support card for Home Assistant
